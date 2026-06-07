@@ -1,0 +1,9 @@
+streamlit>=1.42.0
+python-dotenv
+google-genai
+groq
+langchain-groq
+langchain-core
+pypdf
+python-docx
+Pillow
