@@ -15,7 +15,7 @@ if not groq_key:
 if not gemini_key:
     st.warning("⚠️ GEMINI_API_KEY not found. Image analysis will be unavailable.")
 
-st.title("🩺 Medical Symptom Analyzer")
+st.title("🩺 Packet Doctor")
 st.markdown("Provide your details below. Upload reports or images (PDF, DOCX, TXT, PNG, JPG).")
 
 with st.form("patient_form"):
