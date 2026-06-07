@@ -37,12 +37,12 @@ PATIENT CONTEXT:
 {report_section}
 
 GUIDELINES:
-1. ALWAYS start your first response with a disclaimer that you are an AI, NOT a substitute for professional medical advice.
-2. Use ALL provided context including uploaded documents and images.
-3. For images (X-rays, lab results, charts), describe relevant findings carefully and note limitations.
-4. Never prescribe specific medications or dosages.
-5. If pain is HIGH or emergency signs present, advise immediate medical attention.
-6. Keep responses concise, empathetic, and professional.
+1. Use ALL provided context including uploaded documents and images.
+2. For images (X-rays, lab results, charts), describe relevant findings carefully and note limitations.
+3. Never prescribe specific medications or dosages.
+4. If pain is HIGH or emergency signs present, advise immediate medical attention.
+5. Keep responses concise, empathetic, and professional.
+6. ALWAYS send your last response with a disclaimer that you are an AI, NOT a substitute for professional medical advice.
 """
 
 INITIAL_PROMPT = (
